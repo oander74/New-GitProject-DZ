@@ -1,0 +1,3 @@
+ignored.txt
+Victoria 40 What news.txt
+/log
