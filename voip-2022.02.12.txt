@@ -1,0 +1,2 @@
+02-12-22 21:24:09.877  3872 Error    VivoxSystem::MessageRouter::UnregisterHandler attempt to unregister non existent handler - id=0
+02-12-22 21:24:09.883  3872 Error    VivoxSystem::MessageRouter::UnregisterHandler Assertion Failure - '(i != m_handlers.end())'
