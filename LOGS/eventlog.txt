@@ -1,0 +1,64 @@
+23:23:40 : Warning! Main INI-file 'vcr40.ini' not found, and writen default sets!
+23:23:40 : Starting Victoria 4.47  Freeware (2013-02-20) , 4xCPU, 4093,10 MHz, Windows unknown NT found.
+23:23:40 : Select SECONDARY port: base=170h, alternative=376h
+23:23:40 : Uknown error or driver not exist
+23:23:40 : PORTTALK Error. Invalid driver handle
+23:23:40 : PortTalk driver not installed! Available only API access
+23:23:41 : API access enabled, device #1
+23:23:49 : Get passport... OK
+23:23:49 : 48bit access enabled
+23:23:49 : Model: ST500LM021-1KJ152; Capacity: 976773168 LBAs; SN: W620HEVH; FW: 0001SDM1
+23:23:53 : Get S.M.A.R.T. command... OK
+23:23:53 : SMART status = GOOD
+23:24:00 : Get passport... OK
+23:24:00 : Recallibration... OK
+23:24:00 : Starting Reading, LBA=0..976773167, sequential access, timeout 10000ms
+0:35:41 : ***** Scan results: no warnings, no errors *****
+0:36:16 : Get passport... OK
+0:36:36 : Get passport... OK
+0:36:46 : Recallibration... OK
+0:36:46 : Starting ERASING, LBA=0..976773167, sequential access, timeout 10000ms
+1:37:13 : Warning! Block start at 870300160 = 265 ms
+1:47:40 : Warning! Block start at 972044800 = 218 ms
+1:48:13 : ***** Scan results: Warnings - 2, errors - 0 *****
+1:54:59 : Get S.M.A.R.T. command... OK
+1:54:59 : SMART status = GOOD
+1:55:28 : Get passport... OK
+1:55:29 : Recallibration... OK
+1:55:29 : Starting Reading, LBA=0..976773167, sequential access, timeout 10000ms
+1:55:35 : Command interrupted by user!
+1:55:35 : ***** Scan results: no warnings, no errors *****
+1:55:38 : Get passport... OK
+1:55:38 : Recallibration... OK
+1:55:38 : Starting surface scan, LBA=0..976773167, sequential access, timeout 10000ms
+2:15:38 : Command interrupted by user!
+2:21:13 : Starting Victoria 4.47  Freeware (2013-02-20) , 4xCPU, 4093,41 MHz, Windows unknown NT found.
+2:21:13 : Uknown error or driver not exist
+2:21:13 : PORTTALK Error. Invalid driver handle
+2:21:13 : PortTalk driver not installed! Available only API access
+2:21:13 : API access enabled, device #1
+2:21:20 : Get S.M.A.R.T. command... Error reading S.M.A.R.T!
+2:21:22 : Get S.M.A.R.T. command... Error reading S.M.A.R.T!
+2:21:25 : Get passport... OK
+2:21:25 : 48bit access enabled
+2:21:25 : Model: SAMSUNG HD322HJ; Capacity: 625142448 LBAs; SN: S17AJ9BQB01396; FW: 1AC01113
+2:21:28 : Get S.M.A.R.T. command... OK
+2:21:28 : SMART status = GOOD
+2:21:33 : Get passport... OK
+2:21:33 : Recallibration... OK
+2:21:33 : Starting Reading, LBA=0..625142447, sequential access, timeout 10000ms
+2:22:03 : Block 59648 Error: ABRT
+2:22:24 : Block 59904 Error: ABRT
+2:23:54 : Warning! Block start at 1341952 = 249 ms
+2:24:08 : Warning! Block start at 1544704 = 281 ms
+2:24:18 : Warning! Block start at 1694464 = 234 ms
+2:24:21 : Warning! Block start at 1737472 = 390 ms
+2:24:24 : Warning! Block start at 1760768 = 203 ms
+2:25:52 : Warning! Block start at 11291904 = 203 ms
+2:30:20 : Warning! Block start at 56759808 = 250 ms
+2:30:54 : Warning! Block start at 63310848 = 203 ms
+2:31:59 : Warning! Block start at 74316288 = 281 ms
+2:32:30 : Warning! Block start at 79682304 = 296 ms
+2:32:39 : Warning! Block start at 81040384 = 203 ms
+2:32:44 : Warning! Block start at 82059264 = 296 ms
+2:32:58 : Command interrupted by user!
