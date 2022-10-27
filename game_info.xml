@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<protocol wgc_publisher_id="wargaming" name="game_info" version="2.14">
+    <game>
+        <id>WOT.RU.PRODUCTION</id>
+        <index>0</index>
+        <installed>true</installed>
+        <all_parts_installed>true</all_parts_installed>
+        <localization>RU</localization>
+        <content_localizations>
+            <content_localization realm="ru">ru</content_localization>
+        </content_localizations>
+        <client_type>sd</client_type>
+        <show_guide>false</show_guide>
+        <version_name>1.18.0.3760</version_name>
+        <update_urls>
+            <value>https://wgus-wotru.wargaming.net/</value>
+        </update_urls>
+        <corrupt_parts/>
+        <part_versions>
+            <version name="client" available="1.18.0.22202" installed="1.18.0.22202"/>
+            <version name="locale" available="1.18.0.1797283" installed="1.18.0.1797283"/>
+            <version name="sdcontent" available="1.18.0.22187" installed="1.18.0.22187"/>
+        </part_versions>
+        <parameters>
+            <value name="preinstall_balloon_shown">false</value>
+        </parameters>
+        <dlc/>
+        <in_game_overlay>true</in_game_overlay>
+        <accepted_for_preinstall_patches/>
+    </game>
+</protocol>
